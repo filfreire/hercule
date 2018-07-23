@@ -12,10 +12,12 @@ What makes `hercule` distinct is:
 - Enforced documented code and uniform code style (because of the the agressive static analysis);
 - Script to raise test execution "infrastructure", with docker containers and selenium standalone packages, so it's usable in your typical CI slave machines (Ex.: Jenkins, Travis, CircleCi, etc.);
 - Plain JUnit tests (no "BDD"-style tests, at least for now);
-- Tests can run locally and be debugged locally on an IDE, but the main purpose is that there is already setup work so they're ready run them headlessly on docker containers;
-- Distinction between Testing profiles for differen test executions (Example: Integration test profile vs. Unit test profile, etc.)
+- Tests can run locally and be debugged locally on an IDE, but the main purpose is that there is already setup work so they're ready to run headlessly on docker containers;
+- Distinction between testing profiles for different test executions (Example: Integration test profile vs. Unit test profile, etc.)
 
-Curiosity: The project's name comes from an all-time favourite (fictional) detective, Hercule Poirot.
+⚠️ Disclaimer ⚠️ `hercule` is still very much work-in-progress, use with caution!
+
+🤫 Curiosity 🤫 The name comes from an all-time favourite (fictional) detective, Hercule Poirot.
 
 ## TO-DO
 
