@@ -17,7 +17,8 @@ What makes `hercule` distinct is:
 
 ⚠️ Disclaimer ⚠️ `hercule` is still very much work-in-progress, use with caution!
 
-🤫 Curiosity 🤫 The name comes from an all-time favourite (fictional) detective, Hercule Poirot.
+🤫 Curiosity 🤫 The name comes from an all-time favourite (fictional) detective, Hercule Poirot. I also recommend reading of my post ["What's the color of static analysis?
+"](https://filfreire.com/posts/red_static_analysis), to understand a bit why I use the "aggressive" adjective a lot.
 
 ## TO-DO
 
