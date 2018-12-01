@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright (c) 2018 Filipe Freire
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -24,8 +24,6 @@ package com.filfreire.pobj.pelem;
 /**
  * Element interface.
  *
- * @author Filipe Freire (livrofubia@gmail.com)
- * @version $Id: ??? $
  * @since 1.0
  */
 public interface WritableElement {
@@ -35,6 +33,6 @@ public interface WritableElement {
      *
      * @param str String to write.
      */
-    void write(final String str);
+    void write(String str);
 
 }
