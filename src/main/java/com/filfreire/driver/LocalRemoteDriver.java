@@ -1,4 +1,4 @@
-/**
+/*
  * Copyright (c) 2018 Filipe Freire
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -30,8 +30,6 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 /**
  * Locally run Remote Driver interface.
  *
- * @author Filipe Freire (livrofubia@gmail.com)
- * @version $Id: ??? $
  * @since 1.0
  */
 public class LocalRemoteDriver implements Driver {
